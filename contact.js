@@ -10,8 +10,8 @@ var usermessage = {
   Message: message.value,
 };
 function handleChange() {
-  usermessage.Name = Name.value;
-  usermessage.Email = email.value;
+  usermessage.Name = Name.value
+  usermessage.Email = email.value
   usermessage.Tel = tel.value;
   usermessage.Message = message.value;
 }
