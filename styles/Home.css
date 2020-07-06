@@ -1,0 +1,16 @@
+#background_image{
+    height: 100vh;
+    background-repeat: no-repeat;
+    z-index: 999;
+    background-attachment:fixed;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    left: 0;
+    background-image:url("https://bethlehem.church/monkimage.php?mediaDirectory=media&mediaId=4699143&fileName=dt-congregation4bright-1680-1000-0-0.jpg");
+}
+#covid{
+    font-size: 1.25rem; 
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}

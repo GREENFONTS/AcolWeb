@@ -1,0 +1,39 @@
+#acol {
+  background-image: url('../../assets/img/acol.jpg');
+  background-size: cover;
+  border-radius: 20px;
+}
+
+#ebgu {
+  background-image: url('../../assets/img/ebgu.jpg');
+  background-size: cover;
+  border-radius: 20px;
+}
+
+#angcunigeria {
+  background-image: url('../../assets/img/pp%20church.jpg');
+  background-size: cover;
+  border-radius: 20px;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  border-radius: 20px;
+}
+
+#portfolio * {
+  border-radius: 20px;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+}
+
+#portfolio * {
+  background-size: cover;
+}
+
+.row.text-center {
+}
+
+div {
+}
+
